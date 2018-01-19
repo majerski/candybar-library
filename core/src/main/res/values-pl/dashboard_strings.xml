@@ -2,7 +2,7 @@
 <resources>
     <!-- Navigation View -->
     <string name="navigation_view_home">Ekran główny</string>
-    <string name="navigation_view_apply">Zastosuj</string>
+    <string name="navigation_view_apply">Launchery</string>
     <string name="navigation_view_icons">Ikony</string>
     <string name="navigation_view_request">Prośba o ikony</string>
     <string name="navigation_view_wallpapers">Tapety</string>
